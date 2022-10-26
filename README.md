@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RC-LAB
-- 👀 I’m interested in the regulatory mechanism used to achieve spatial-temporal resolution of development in plants that is applicable accross species. The inducible formation of stem cells from somatic cells to the guided formation with identity, function and sturucture specifity through "hot wiring" of developmetal programs. 
+- 👀 I’m interested in the regulatory mechanism used to achieve spatial-temporal resolution of development in plants that is applicable accross species. The inducible formation of stem cells from somatic cells to the guided formation with identity, function and sturucture specifity through "hot wiring" of developmetal programs will be a critical field in the in vitro formation of organs. This mechanism will allow for host specific (  
 - 
 - 🌱 I’m currently learning coding languages to help analyse the big data from gene expression experiments, single cell sequencing amd computer modeling. 
 - 💞️ I’m looking to collaborate on 
